@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MosiYT23
+- 👀 I’m interested in coding/cyber security
+- 🌱 I’m currently learning Javascript coding for a project
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: idk/idc
